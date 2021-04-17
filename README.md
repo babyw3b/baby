@@ -38,4 +38,3 @@ except :
 	parser.error("L'exemple est devant vous !!")
 
 Dos_attack(target_IP, port)
-© 2021 GitHub, Inc.
